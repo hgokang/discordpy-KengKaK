@@ -1,7 +1,4 @@
-# 840360664924422216 client id
-# 3f9e8332098be9ac0befaa1f80f0b8c6e307d1b784bb858c124865530b29e1b2 public
-# ODQwMzYwNjY0OTI0NDIyMjE2.YJXE2w.AxdyjG7Uy-d6eYFjnxdpAXaX6xM token
-# 2148001856 premission
+
 
 import json
 import re
@@ -407,4 +404,4 @@ async def devmode(ctx, mode: int):
 
 
 
-bot.run("ODQwMzYwNjY0OTI0NDIyMjE2.YJXE2w.AxdyjG7Uy-d6eYFjnxdpAXaX6xM")                       #Token
+bot.run("Tokeng")                       #Token
