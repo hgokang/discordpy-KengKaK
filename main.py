@@ -404,4 +404,4 @@ async def devmode(ctx, mode: int):
 
 
 
-bot.run("Tokeng")                       #Token
+bot.run("Token")                       #Token
